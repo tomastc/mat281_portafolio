@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portfolio/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portafolio/master)
 
 * __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
 
