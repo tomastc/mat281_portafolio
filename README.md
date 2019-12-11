@@ -1,4 +1,4 @@
-<header>
+﻿<header>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
 <img src="./images/dmat.png" alt="DMAT" align="right"/>
 </header>
@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portfolio/master?urlpath=lab)
 
 * __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
 
