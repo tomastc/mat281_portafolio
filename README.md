@@ -14,7 +14,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portafolio/master)
 
-* __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
+* __Tomás Tapia Cáceres : [](https://www.linkedin.com/in/williamhgates/)
 
 * __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
