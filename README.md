@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portafolio/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomastc/mat281_portafolio/master?urlpath=lab)
 
 * __Tomás Tapia Cáceres__ : [](https://www.linkedin.com/in/williamhgates/)
 
